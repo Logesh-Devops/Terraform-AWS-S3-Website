@@ -2,6 +2,8 @@
 
 Terraform for hosting a secure static website hosted on AWS using S3.
 
+![static website hosted on AWS using S3](Arch-img/1_srnPC370Q44uMsKD6JSevw.jpeg "static website hosted on AWS using S3")
+
 There is a [step by step guide] for this Terraform Script.
 
 The terraform will set up the following components:
